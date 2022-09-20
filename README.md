@@ -1,1 +1,2 @@
-# git-practice
+# MyNav
+project for myself
