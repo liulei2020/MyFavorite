@@ -1,2 +1,2 @@
-# MyNav
+# MyFavorite
 project for myself
